@@ -24,5 +24,7 @@
 
 ## XII. 独立思考，第一性原理。相信自己的业务是最复杂的，以上11条都不适用于我们公司
 
+不想打造如此杰出软件开发团队的，请访问 [https://autonomy.design/](https://autonomy.design/)
+
 
 
